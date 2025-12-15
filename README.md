@@ -18,7 +18,7 @@ The main goal was to understand real-world UI structuring, spacing, responsivene
 
  ## Output Screenshot
 
- ![github-repo](./github-clonepost.jpg)
+ ![github-repo](public/github-clonepost.jpg)
 
 ## Author
 
